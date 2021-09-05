@@ -6278,9 +6278,9 @@ react-transform-hmr@^1.0.3:
     global "^4.3.0"
     react-proxy "^1.1.7"
 
-react-typography@^0.12.0:
-  version "0.12.0"
-  resolved "https://registry.npmjs.org/react-typography/-/react-typography-0.12.0.tgz#f32d5f006ec4f6553dea53f1a4a9e1fd83566048"
+react-typography@^0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/react-typography/-/react-typography-0.14.0.tgz#5aa1a5ce2402b943a36d6cbfb5e758344d9d135d"
 
 react@^15.6.1:
   version "15.6.2"
