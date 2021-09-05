@@ -4538,9 +4538,9 @@ markdown-it-abbr@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz#d66b5364521cbb3dd8aa59dadfba2fb6865c8fd8"
 
-markdown-it-attrs@^0.6.3:
-  version "0.6.5"
-  resolved "https://registry.npmjs.org/markdown-it-attrs/-/markdown-it-attrs-0.6.5.tgz#296ae4dcac260386accfed9831148d6513057a68"
+markdown-it-attrs@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-2.3.2.tgz#7068c40571735e1b0f5c412ac802627a9fd0db01"
 
 markdown-it-deflist@^2.0.1:
   version "2.0.3"
