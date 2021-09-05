@@ -7513,9 +7513,9 @@ typography-normalize@^0.12.0:
   version "0.12.0"
   resolved "https://registry.npmjs.org/typography-normalize/-/typography-normalize-0.12.0.tgz#36995e85d20d7d5ef31924aa6f3e9adda3ba519f"
 
-typography-plugin-code@^0.13.0:
-  version "0.13.3"
-  resolved "https://registry.npmjs.org/typography-plugin-code/-/typography-plugin-code-0.13.3.tgz#0af528fe7890d5ae6b10089f0d5803c42c736ccc"
+typography-plugin-code@^0.16.20:
+  version "0.16.20"
+  resolved "https://registry.yarnpkg.com/typography-plugin-code/-/typography-plugin-code-0.16.20.tgz#37b268b7fa0d37355a7856a75a077ef3cd6d0295"
   dependencies:
     gray-percentage "^2.0.0"
     lodash "^4.13.1"
