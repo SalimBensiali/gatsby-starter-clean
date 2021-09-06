@@ -4580,9 +4580,9 @@ markdown-it-abbr@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz#d66b5364521cbb3dd8aa59dadfba2fb6865c8fd8"
 
-markdown-it-attrs@^2.3.2:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-2.3.2.tgz#7068c40571735e1b0f5c412ac802627a9fd0db01"
+markdown-it-attrs@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-4.0.0.tgz#eadae3ea0c7d17c5e83b98a4ec95a47f4e4960f5"
 
 markdown-it-deflist@^2.0.1:
   version "2.1.0"
