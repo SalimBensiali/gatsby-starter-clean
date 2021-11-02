@@ -3786,8 +3786,8 @@ history@^4.6.2, history@^4.7.2:
     value-equal "^1.0.1"
 
 history@^5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/history/-/history-5.0.1.tgz#de35025ed08bce0db62364b47ebbf9d97b5eb06a"
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/history/-/history-5.0.3.tgz#23d0b3046f695623c95a870506545e2b67e82edb"
   dependencies:
     "@babel/runtime" "^7.7.6"
 
